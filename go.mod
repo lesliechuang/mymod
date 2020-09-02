@@ -1,4 +1,4 @@
-module github.com/zjcx/mymod
+module github.com/lesliechuang/mymod
 
 go 1.13
 
